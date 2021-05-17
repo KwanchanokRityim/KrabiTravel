@@ -1,0 +1,108 @@
+.navbar-nav a:hover{
+      background-color: LightCoral;
+  }
+.card-img-top{
+  height: 250px;
+}
+.list-group a{
+ color: DimGrey;
+ padding-left: 15px;
+}
+.list-group li:hover{
+  width: 100%;
+  background-color: rgb(210, 240, 128);
+}
+.list-group a:hover{
+  background-color: rgb(210, 240, 128);
+  text-decoration: none;
+  color: red;
+  width: 100%;
+  padding: 9px;
+}
+.list-group li{
+  background-color: Beige;
+}
+body {
+  font-family: 'Sarabun', sans-serif;
+}
+.card-body{
+  background-color: Beige;
+}
+.card-body a{
+  text-decoration: none;
+      font-family: 'Sarabun', sans-serif;
+      color: DimGrey;
+      display: block;
+      padding-left: 15px;
+      transition: .3s;
+      text-align: center;
+}
+.card-body a:hover{
+      background-color:Khaki;
+      color: red;
+      text-decoration: none;
+      text-align: center;
+}
+footer {
+text-align: right;
+background-color: Beige;
+}
+#more {display: none;}
+
+button{
+  background-color: LightCoral;
+  border-color: transparent;
+}
+button:hover{
+  background-color: Khaki;
+  border-color: transparent;
+}
+.koh{
+  background-color: Khaki;
+  padding: 9px;
+}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+.facebook{
+  color: black;
+}
+.facebook:hover{
+  color: #3B5998;
+  text-decoration: none;
+}
+.top1 a{
+background-color: Beige;
+  padding: 20px;
+}
+.top1 {
+  text-align: right;
+}
+html {
+  scroll-behavior: smooth;
+}
+a{
+  background-color: LightCoral;
+  border-color: transparent;
+}
+.Delete a:hover {
+    opacity: 0.7;
+}
+#form1{
+  text-align: center;
+}
